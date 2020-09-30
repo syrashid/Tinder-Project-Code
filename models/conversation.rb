@@ -40,4 +40,3 @@ class Conversation
     start_date <= other.end_date && other.start_date <= end_date
   end
 end
-
